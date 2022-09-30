@@ -1,1 +1,1 @@
-# Databases-and-SQL_for_Data_Science_with_Python
+Practice on how to access .sql files in Python notebooks using APIs
