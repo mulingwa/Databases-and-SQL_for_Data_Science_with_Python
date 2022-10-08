@@ -1,1 +1,1 @@
-Practice on how to access .sql files in Python notebooks using APIs
+Practice on how to access .sql files in Python notebooks using APIs and sql magic
